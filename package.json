@@ -1,0 +1,11 @@
+{
+  "name": "cursonode",
+  "version": "0.1.0",
+  "description": "Curso de node.js ",
+  "main": "src/index.js",
+  "scripts": {
+    "service": "node src/index.js"
+  },
+  "author": "IsmarySalgesm",
+  "license": "ISC"
+}
